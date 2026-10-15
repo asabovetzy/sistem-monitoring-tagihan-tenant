@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# File yang dibuat program saat dijalankan
+data_tagihan.csv
+data_tagihan_rusak.csv
+laporan/
